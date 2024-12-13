@@ -52,7 +52,6 @@ class HomeActivity : AppCompatActivity() {
 
                 binding.loadingView.visibility = View.GONE
 
-
                 if (response.prediction.isNotEmpty() && response.prediction[0][0] > 0.1) {
                     // Navigate to ResultActivity if prediction > 0.1
                     startActivity(Intent(this@HomeActivity, ResultActivity::class.java))
