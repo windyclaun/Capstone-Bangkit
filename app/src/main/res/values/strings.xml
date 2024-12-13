@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Write My Life</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="illustration">illustration</string>
+    <string name="title_onboarding_1">Write My Life</string>
+    <string name="subtitle_onboarding_1">Every story is a step to understanding\n
+Its Ok Not To Be OKAY!</string>
+    <string name="title_onboarding_2">Sharing is relieving!</string>
+    <string name="subtitle_onboarding_2">No hassle, no login, and you can stay anonymous</string>
+    <string name="title_onboarding_3">Ready to share your story?</string>
+    <string name="subtitle_onboarding_3">Press the button below and let’s get started!</string>
+    <string name="tv_button_ob3">Lets share!</string>
+    <string name="back">back</string>
+    <string name="skip">Skip</string>
+    <string name="dummy_text">Lorem ipsum odor amet, consectetuer adipiscing elit. Lacus lacus adipiscing ligula class, augue nunc sapien. Sem taciti iaculis primis; justo at consectetur. Rhoncus mattis dis pharetra elementum habitant donec. Luctus tristique congue tempor nullam malesuada. Enim sit massa euismod leo elit. Interdum odio euismod urna porttitor primis turpis lorem ridiculus. Fermentum egestas mi libero himenaeos, lacus sodales iaculis. Inceptos blandit convallis eget dapibus sodales pulvinar nulla. Risus luctus nascetur amet fringilla urna natoque sit. Faucibus ex interdum lectus nulla sagittis lacinia mauris commodo per. Ante senectus iaculis eget nisl eget vel sollicitudin sit. Montes fermentum semper ligula urna vitae sed morbi nibh. Netus facilisis integer integer vulputate commodo quam inceptos lorem pharetra. Id vulputate ridiculus, bibendum elit amet ut. Nulla netus nec; scelerisque fringilla sem ad justo. Hac euismod nam nunc eget platea duis neque nascetur nunc. Turpis et ipsum lorem lectus eu scelerisque accumsan ornare. Hendrerit quam primis vehicula tristique fermentum ultrices sem rutrum. Habitasse ullamcorper eget; semper efficitur odio ut. Class donec pretium tincidunt aptent at aliquam. Primis viverra egestas curabitur nec laoreet leo tortor quam morbi. Ad felis nec; semper metus senectus purus feugiat viverra inceptos. Laoreet praesent conubia sollicitudin viverra cras odio ligula. Ridiculus finibus himenaeos ligula ultricies tincidunt lacus habitasse. Ad risus fusce ad morbi massa cubilia tempor leo. Dapibus magna ad morbi aenean magnis aliquet ac parturient. Egestas non cras nec quam feugiat fermentum arcu convallis dui. Nibh auctor habitasse libero ut blandit. Feugiat hac metus taciti taciti magnis. Malesuada praesent natoque convallis nisl libero et curae mus. Pharetra class sagittis; at mi primis nunc velit. Dolor dapibus feugiat ante cubilia torquent porta. Hendrerit urna proin ipsum etiam libero sollicitudin. Odio convallis nisl suscipit ipsum risus cras dolor vulputate ad. Leo vehicula mauris metus; euismod vivamus blandit. Blandit lobortis blandit curabitur malesuada maximus vitae lectus. Convallis volutpat potenti semper maximus per. Fermentum ut tellus velit mus odio pulvinar egestas vestibulum. Laoreet sapien cras quis; tortor eleifend natoque hac. At vel fames primis ligula natoque dolor lacinia. Porttitor hac magnis faucibus parturient vulputate sem gravida penatibus ipsum. Auctor eleifend nisl vitae nulla volutpat odio. Scelerisque metus litora justo dui; suspendisse himenaeos suspendisse egestas. Ex iaculis dolor nec tristique aliquet cras! Per curae porta eros quis lacinia suscipit sed vehicula.</string>
+    <string name="HeadingHome">How are you feeling today</string>
+    <string name="hint_home">Write your story here</string>
+    <string name="button_home">See your results!</string>
+    <string name="error_message">error, try again later</string>
+    <string name="results_negative">you may be feeling down</string>
+    <string name="hotline_text"><![CDATA[
+        <b>Hotline:</b><br/>
+Emergency number: <b>119</b><br/>
+Halo Kemenkes: <b>1500 567</b><br/>
+Yayasan Pulih: <b>+62 811 8436 633</b>
+    ]]></string>
+    <string name="negative_desc">From the story you shared, it sounds like you might be feeling a bit off. It\'s totally okay to take a moment to check in with yourself and share your feelings with someone close to you. Remember, you’re not alone in this, and I\'m here for you if you need to talk!</string>
+    <string name="positive_desc">You are doing great! It\'s important to take a moment for yourself and acknowledge your feelings. Connecting with those around you can bring comfort and support. Remember, it\'s okay to reach out for help or share your thoughts. You\'re not alone, and I\'m here for you whenever you need to talk!</string>
+    <string name="heading_results">Results</string>
+    <string name="results_positive">you are doing fine</string>
+</resources>
